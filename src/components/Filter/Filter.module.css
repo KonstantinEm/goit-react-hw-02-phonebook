@@ -1,0 +1,20 @@
+.Serch {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.SerchInput {
+  color: #171718;
+  font: inherit;
+  font-size: 1.2rem;
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid #bdbdbd;
+  width: 410px;
+  outline: 0;
+  margin-left: 25px;
+}
+.Serch label {
+  margin-left: auto;
+  margin-right: auto;
+}
